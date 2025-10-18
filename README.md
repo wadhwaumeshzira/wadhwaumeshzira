@@ -9,7 +9,7 @@
 <br> 
 <b>▶️ Skills:</b> <br> 
 ➖ I am a versatile developer with experience across multiple domains, including AI/ML, Fullstack Web Development, Backend Development, and Software Engineering. I have strong problem-solving skills and a deep understanding of DSA and various mathematical concepts, which I apply to tackle complex real-world challenges. <br> 
-➖ Proficient in Python, C/C++, SQL, Flask, FastAPI, and more, I have worked on projects involving Reinforcement Learning, sentiment analysis, and web development. My dedication to problem-solving has led me to build innovative solutions, such as a Q-Learning trading bot and a voice sentiment analysis system using BERT. <br> 
+➖ Proficient in Python, C/C++, SQL, Excel and more, I have worked on projects involving Machine Learning, Data analysis, and web development. My dedication to problem-solving has led me to build innovative solutions. <br> 
 <br> 
 <b>▶️ Inspiration:</b> <br> 
 ➖ Driven by my passion for understanding the intricacies of technology and contributing to impactful projects, I am actively seeking internship opportunities in software development and AI/ML fields. My goal is to apply my skills to real-world problems, continuously learn, and grow as a developer. <br> 
@@ -18,8 +18,6 @@
 📩 Contact me at umeshwadhwa11@gmail.com <br>
 📞 Phone Number +91 7719404884
 <br><br><br>
-
-
 
 
 
