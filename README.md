@@ -1,7 +1,7 @@
 
 <br><br>
 <b>▶️ Introduction:</b> <br> 
-➖ I'm a passionate Finalyear undergraduate student pursuing BTech in Information Technology at IIIT Bhopal, holding a CGPA of 9.20. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically. <br> 
+➖ I'm a passionate Final-year undergraduate student pursuing BTech in Information Technology at IIIT Bhopal, holding a CGPA of 9.20. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically. <br> 
 <br> 
 <b>▶️ Leadership Experience:</b> <br> 
 ➖ Assistant Coordinator – Training & Placement Cell, IIIT Bhopal: Coordinated placement activities, collaborated with recruiters, and supported students in training initiatives to enhance placement opportunities. <br>
