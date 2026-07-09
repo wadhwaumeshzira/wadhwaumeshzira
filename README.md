@@ -1,5 +1,4 @@
-
-<br><br>
+<br>
 <b>▶️ Introduction:</b> <br> 
 ➖ I'm a passionate Final-year undergraduate student pursuing BTech in Information Technology at IIIT Bhopal, holding a CGPA of 9.20. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically. <br> 
 <br> 
